@@ -1,2 +1,10 @@
-# hackerrank-sql-solutions
-My SQL solutions for HackerRank practice problems
+ HackerRank Solutions
+
+This repository contains my solutions to HackerRank problems.
+
+## Topics Covered
+- SQL
+- Python (coming soon)
+
+## Goal
+To strengthen problem-solving skills and prepare for data analyst interviews.
